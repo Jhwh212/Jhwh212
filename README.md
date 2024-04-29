@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jhwh212
+- 🌱 I’m currently learning Comp Science @AUST Uni
+- 😄 Pronouns: she/her
+- ⚡ Fun fact:  Grace Hopper found first bug
